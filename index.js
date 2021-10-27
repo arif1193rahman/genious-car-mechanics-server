@@ -12,7 +12,7 @@ const app = express();
 const port= process.env.PORT || 5000;
 
 
-// middleware
+// middleware ....eta ditaie hbe 
 app.use(cors());
 app.use(express.json());
 
